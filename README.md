@@ -1,5 +1,5 @@
 # lithium-web-server
-Ultra-light, scallable, platform-independent, awesome web server.
+Ultra-light, scalable, platform-independent, awesome web server.
 
 ## Install
 Install the required packages with the following command:
