@@ -8,7 +8,7 @@
 Install the required packages with the following command:
 
 ```
-$> npm install
+npm install
 ```
 
 ## Run the server
