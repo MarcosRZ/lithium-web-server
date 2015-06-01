@@ -2,4 +2,4 @@ language: node_js
 node_js: "0.12"
 before_install:
 - npm install
-- node lithium.js 3333
+- node lithium.js 3333 &
