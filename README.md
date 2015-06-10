@@ -2,13 +2,13 @@
 
 [![Build Status](https://travis-ci.org/MarcosRZ/lithium-web-server.svg?branch=devel)](https://travis-ci.org/MarcosRZ/lithium-web-server)
 
-![lithium-web-server.js logo](http://telesucaro.es/lithiumwebserver.svg)
+![lithium-web-server.js logo](http://telesucaro.es/lithium-webserver-sm.png)
 
 ## Install
 Install the required packages with the following command:
 
 ```
-$> npm install
+npm install
 ```
 
 ## Run the server
